@@ -1,1 +1,4 @@
-p { background-color: red; }
+* { color: firebrick; }
+li { color: Fuchsia; }
+em { color: red; }
+h1 { color: blue; }

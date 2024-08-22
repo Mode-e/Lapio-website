@@ -1,1 +1,22 @@
- <link rel="stylesheet" href="\\wsl.localhost\Ubuntu-24.04\root\Lapio-website\style.css">
+
+.first-box-container { 
+    margin: 10px;
+    float:left;
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+.second-box-container { 
+    margin: 10px;
+    float:left;
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+}
+.third-box-container { 
+    margin: 10px;
+    float:left;
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
